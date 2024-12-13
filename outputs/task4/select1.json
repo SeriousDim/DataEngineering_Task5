@@ -1,0 +1,112 @@
+[
+    {
+        "technology": "Летающие машины",
+        "invented": "15.03.2025",
+        "inventor": "Эмили Авиационная",
+        "deployed": "15.09.2026",
+        "works": 5,
+        "useful": 5,
+        "harmful": 1,
+        "usability_type": "Транспорт",
+        "harm_type": "Стоимость"
+    },
+    {
+        "technology": "Биороботы",
+        "invented": "07.02.2030",
+        "inventor": "Д-р Роберт Боття",
+        "deployed": "15.11.2032",
+        "works": 5,
+        "useful": 8,
+        "harmful": 1,
+        "usability_type": "Медицина",
+        "harm_type": "Непредсказуемость"
+    },
+    {
+        "technology": "Путешествия во времени",
+        "invented": "20.12.2040",
+        "inventor": "Жанна Временная",
+        "deployed": "20.05.2045",
+        "works": 7,
+        "useful": 6,
+        "harmful": 5,
+        "usability_type": "Наука",
+        "harm_type": "Парадоксы"
+    },
+    {
+        "technology": "Виртуальная реальность",
+        "invented": "20.05.2020",
+        "inventor": "Томас Визуальный",
+        "deployed": "20.11.2023",
+        "works": 8,
+        "useful": 4,
+        "harmful": 6,
+        "usability_type": "Развлечение",
+        "harm_type": "Социальное"
+    },
+    {
+        "technology": "Чистая энергия",
+        "invented": "01.02.2025",
+        "inventor": "Сара Зелёная",
+        "deployed": "01.12.2026",
+        "works": 7,
+        "useful": 3,
+        "harmful": 6,
+        "usability_type": "Экология",
+        "harm_type": "Ресурсы"
+    },
+    {
+        "technology": "Блокчейн",
+        "invented": "15.05.2018",
+        "inventor": "Ник Блок",
+        "deployed": "15.11.2020",
+        "works": 9,
+        "useful": 9,
+        "harmful": 3,
+        "usability_type": "Безопасность",
+        "harm_type": "Огранизационные"
+    },
+    {
+        "technology": "Метеорологические дроны",
+        "invented": "01.08.2025",
+        "inventor": "Ральф Дрон",
+        "deployed": "01.12.2027",
+        "works": 7,
+        "useful": 6,
+        "harmful": 3,
+        "usability_type": "Прогнозирование",
+        "harm_type": "Оборона"
+    },
+    {
+        "technology": "Телепортация",
+        "invented": "12.01.2023",
+        "inventor": "Джейн Дос",
+        "deployed": "01.07.2025",
+        "works": 5,
+        "useful": 3,
+        "harmful": 2,
+        "usability_type": "Транспорт",
+        "harm_type": "Парадоксы"
+    },
+    {
+        "technology": "Подводные огороды",
+        "invented": "10.04.2024",
+        "inventor": "Пит Садовод",
+        "deployed": "21.12.2025",
+        "works": 6,
+        "useful": 5,
+        "harmful": 1,
+        "usability_type": "Медицина",
+        "harm_type": "Загрязнение"
+    },
+    {
+        "technology": "Искусственные облака",
+        "invented": "18.09.2024",
+        "inventor": "Сьюзан Метеоролог",
+        "deployed": "30.03.2026",
+        "works": 9,
+        "useful": 3,
+        "harmful": 5,
+        "usability_type": "Климат",
+        "harm_type": "Климат"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "usability_sum": 11,
+        "usability_type": "Наука"
+    },
+    {
+        "usability_sum": 32,
+        "usability_type": "Медицина"
+    },
+    {
+        "usability_sum": 6,
+        "usability_type": "Прогнозирование"
+    },
+    {
+        "usability_sum": 18,
+        "usability_type": "Автоматизация"
+    },
+    {
+        "usability_sum": 2,
+        "usability_type": "Защита"
+    },
+    {
+        "usability_sum": 18,
+        "usability_type": "Удобство"
+    },
+    {
+        "usability_sum": 20,
+        "usability_type": "Экология"
+    },
+    {
+        "usability_sum": 11,
+        "usability_type": "Коммуникация"
+    },
+    {
+        "usability_sum": 15,
+        "usability_type": "Транспорт"
+    },
+    {
+        "usability_sum": 3,
+        "usability_type": "Климат"
+    },
+    {
+        "usability_sum": 3,
+        "usability_type": "Продовольствие"
+    },
+    {
+        "usability_sum": 6,
+        "usability_type": "Комфорт"
+    },
+    {
+        "usability_sum": 5,
+        "usability_type": "Эмоциональная поддержка"
+    },
+    {
+        "usability_sum": 44,
+        "usability_type": "Развлечение"
+    },
+    {
+        "usability_sum": 9,
+        "usability_type": "Безопасность"
+    }
+]

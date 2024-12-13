@@ -1,0 +1,112 @@
+[
+    {
+        "technology": "Мгновенное общение",
+        "invented": "01.01.2000",
+        "inventor": "Чарли Чату",
+        "deployed": "01.06.2001",
+        "works": 3,
+        "useful": 9,
+        "harmful": 3,
+        "usability_type": "Коммуникация",
+        "harm_type": "Огранизационные"
+    },
+    {
+        "technology": "Летающие машины",
+        "invented": "15.03.2025",
+        "inventor": "Эмили Авиационная",
+        "deployed": "15.09.2026",
+        "works": 5,
+        "useful": 5,
+        "harmful": 1,
+        "usability_type": "Транспорт",
+        "harm_type": "Стоимость"
+    },
+    {
+        "technology": "Биороботы",
+        "invented": "07.02.2030",
+        "inventor": "Д-р Роберт Боття",
+        "deployed": "15.11.2032",
+        "works": 5,
+        "useful": 8,
+        "harmful": 1,
+        "usability_type": "Медицина",
+        "harm_type": "Непредсказуемость"
+    },
+    {
+        "technology": "Путешествия во времени",
+        "invented": "20.12.2040",
+        "inventor": "Жанна Временная",
+        "deployed": "20.05.2045",
+        "works": 7,
+        "useful": 6,
+        "harmful": 5,
+        "usability_type": "Наука",
+        "harm_type": "Парадоксы"
+    },
+    {
+        "technology": "Подводные города",
+        "invented": "03.11.2035",
+        "inventor": "Немо Драматург",
+        "deployed": "03.04.2038",
+        "works": 3,
+        "useful": 9,
+        "harmful": 2,
+        "usability_type": "Экология",
+        "harm_type": "Загрязнение"
+    },
+    {
+        "technology": "Искусственный интеллект",
+        "invented": "01.01.2025",
+        "inventor": "Макс Разум",
+        "deployed": "01.06.2028",
+        "works": 2,
+        "useful": 3,
+        "harmful": 4,
+        "usability_type": "Автоматизация",
+        "harm_type": "Социальное"
+    },
+    {
+        "technology": "Генетическая инженерия",
+        "invented": "15.04.2030",
+        "inventor": "Д-р Лара Генет",
+        "deployed": "15.10.2033",
+        "works": 2,
+        "useful": 6,
+        "harmful": 5,
+        "usability_type": "Медицина",
+        "harm_type": "Социальное"
+    },
+    {
+        "technology": "Нанотехнологии",
+        "invented": "07.07.2025",
+        "inventor": "Стэнли Нано",
+        "deployed": "07.01.2028",
+        "works": 1,
+        "useful": 9,
+        "harmful": 3,
+        "usability_type": "Автоматизация",
+        "harm_type": "Стоимость"
+    },
+    {
+        "technology": "Квантовые компьютеры",
+        "invented": "10.03.2025",
+        "inventor": "Лео Квант",
+        "deployed": "10.10.2026",
+        "works": 3,
+        "useful": 6,
+        "harmful": 4,
+        "usability_type": "Автоматизация",
+        "harm_type": "Сложность"
+    },
+    {
+        "technology": "Блокчейн",
+        "invented": "15.05.2018",
+        "inventor": "Ник Блок",
+        "deployed": "15.11.2020",
+        "works": 9,
+        "useful": 9,
+        "harmful": 3,
+        "usability_type": "Безопасность",
+        "harm_type": "Огранизационные"
+    }
+]

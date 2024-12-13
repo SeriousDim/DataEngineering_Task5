@@ -1,0 +1,211 @@
+[
+    {
+        "technology": "Телепортация",
+        "invented": "12.01.2023",
+        "inventor": "Джейн Дос",
+        "deployed": "01.07.2025",
+        "works": 5,
+        "useful": 3,
+        "harmful": 2,
+        "usability_type": "Транспорт",
+        "harm_type": "Парадоксы"
+    },
+    {
+        "technology": "Летающие велосипеды",
+        "invented": "05.03.2025",
+        "inventor": "Боб Винти",
+        "deployed": "15.08.2026",
+        "works": 4,
+        "useful": 7,
+        "harmful": 8,
+        "usability_type": "Транспорт",
+        "harm_type": "Здоровье"
+    },
+    {
+        "technology": "Подводные огороды",
+        "invented": "10.04.2024",
+        "inventor": "Пит Садовод",
+        "deployed": "21.12.2025",
+        "works": 6,
+        "useful": 5,
+        "harmful": 1,
+        "usability_type": "Медицина",
+        "harm_type": "Загрязнение"
+    },
+    {
+        "technology": "Искусственные облака",
+        "invented": "18.09.2024",
+        "inventor": "Сьюзан Метеоролог",
+        "deployed": "30.03.2026",
+        "works": 9,
+        "useful": 3,
+        "harmful": 5,
+        "usability_type": "Климат",
+        "harm_type": "Климат"
+    },
+    {
+        "technology": "Генераторы радуг",
+        "invented": "01.02.2023",
+        "inventor": "Роджер Радужный",
+        "deployed": "10.10.2025",
+        "works": 3,
+        "useful": 7,
+        "harmful": 4,
+        "usability_type": "Развлечение",
+        "harm_type": "Социальное"
+    },
+    {
+        "technology": "Наносупергерои",
+        "invented": "25.05.2027",
+        "inventor": "Люси Абсурд",
+        "deployed": "11.11.2028",
+        "works": 10,
+        "useful": 2,
+        "harmful": 4,
+        "usability_type": "Защита",
+        "harm_type": "Организационные"
+    },
+    {
+        "technology": "Космические фермы",
+        "invented": "15.06.2026",
+        "inventor": "Алекс Звездный",
+        "deployed": "14.04.2028",
+        "works": 4,
+        "useful": 3,
+        "harmful": 1,
+        "usability_type": "Продовольствие",
+        "harm_type": "Социальное"
+    },
+    {
+        "technology": "Гиперсвет",
+        "invented": "08.07.2025",
+        "inventor": "Тим Молния",
+        "deployed": "20.02.2027",
+        "works": 6,
+        "useful": 2,
+        "harmful": 1,
+        "usability_type": "Коммуникация",
+        "harm_type": "Шашлык не пожарить"
+    },
+    {
+        "technology": "Виртуальные питомцы",
+        "invented": "13.02.2023",
+        "inventor": "Майя Животная",
+        "deployed": "16.05.2025",
+        "works": 9,
+        "useful": 8,
+        "harmful": 2,
+        "usability_type": "Развлечение",
+        "harm_type": "Нет"
+    },
+    {
+        "technology": "Интеллектуальные дома",
+        "invented": "22.08.2022",
+        "inventor": "Ник Умный",
+        "deployed": "30.01.2024",
+        "works": 1,
+        "useful": 4,
+        "harmful": 2,
+        "usability_type": "Комфорт",
+        "harm_type": "См. фильмы про Терминаторов"
+    },
+    {
+        "technology": "Суперкошки",
+        "invented": "05.09.2026",
+        "inventor": "Кэтти Кот",
+        "deployed": "01.01.2028",
+        "works": 7,
+        "useful": 3,
+        "harmful": 4,
+        "usability_type": "Развлечение",
+        "harm_type": "Социальное"
+    },
+    {
+        "technology": "Электрические носки",
+        "invented": "14.11.2023",
+        "inventor": "Том Сшиватель",
+        "deployed": "15.09.2025",
+        "works": 7,
+        "useful": 2,
+        "harmful": 5,
+        "usability_type": "Комфорт",
+        "harm_type": "Нет"
+    },
+    {
+        "technology": "Летающие кухни",
+        "invented": "11.03.2025",
+        "inventor": "Кэт Шеф",
+        "deployed": "15.05.2026",
+        "works": 3,
+        "useful": 3,
+        "harmful": 5,
+        "usability_type": "Развлечение",
+        "harm_type": "Загрязнение"
+    },
+    {
+        "technology": "Автоматы для счастья",
+        "invented": "20.12.2025",
+        "inventor": "Роберт Улыбка",
+        "deployed": "01.04.2027",
+        "works": 1,
+        "useful": 6,
+        "harmful": 2,
+        "usability_type": "Развлечение",
+        "harm_type": "Зависимость"
+    },
+    {
+        "technology": "Снегопадиганы",
+        "invented": "30.01.2026",
+        "inventor": "Джек Ледяной",
+        "deployed": "15.12.2027",
+        "works": 6,
+        "useful": 8,
+        "harmful": 5,
+        "usability_type": "Развлечение",
+        "harm_type":  "Климат"
+    },
+    {
+        "technology": "Шоколадный дождь",
+        "invented": "25.06.2025",
+        "inventor": "Эмили Сладкая",
+        "deployed": "10.10.2026",
+        "works": 3,
+        "useful": 4,
+        "harmful": 6,
+        "usability_type": "Развлечение",
+        "harm_type": "Медицина"
+    },
+    {
+        "technology": "Носимые хранилища",
+        "invented": "05.10.2025",
+        "inventor": "Григорий Странник",
+        "deployed": "12.11.2028",
+        "works": 3,
+        "useful": 1,
+        "harmful": 6,
+        "usability_type": "Удобство",
+        "harm_type": "Медицина"
+    },
+    {
+        "technology": "Космофлажки",
+        "invented": "02.02.2024",
+        "inventor": "Клара Астра",
+        "deployed": "20.06.2025",
+        "works": 9,
+        "useful": 1,
+        "harmful": 3,
+        "usability_type": "Развлечение",
+        "harm_type": "Нет"
+    },
+    {
+        "technology": "Роботы-друзья",
+        "invented": "21.05.2025",
+        "inventor": "Джон Дружище",
+        "deployed": "30.09.2026",
+        "works": 5,
+        "useful": 5,
+        "harmful": 3,
+        "usability_type": "Эмоциональная поддержка",
+        "harm_type": "Социальное"
+    }
+]

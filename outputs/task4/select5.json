@@ -1,0 +1,24 @@
+[
+    {
+        "technology": "Искусственные облака",
+        "invented": "18.09.2024",
+        "inventor": "Сьюзан Метеоролог",
+        "deployed": "30.03.2026",
+        "works": 9,
+        "useful": 3,
+        "harmful": 5,
+        "usability_type": "Климат",
+        "harm_type": "Климат"
+    },
+    {
+        "technology": "Снегопадиганы",
+        "invented": "30.01.2026",
+        "inventor": "Джек Ледяной",
+        "deployed": "15.12.2027",
+        "works": 6,
+        "useful": 8,
+        "harmful": 5,
+        "usability_type": "Развлечение",
+        "harm_type": "Климат"
+    }
+]

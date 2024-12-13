@@ -1,0 +1,24 @@
+[
+    {
+        "technology": "Биороботы",
+        "invented": "07.02.2030",
+        "inventor": "Д-р Роберт Боття",
+        "deployed": "15.11.2032",
+        "works": 5,
+        "useful": 8,
+        "harmful": 1,
+        "usability_type": "Медицина",
+        "harm_type": "Непредсказуемость"
+    },
+    {
+        "technology": "Генетическая инженерия",
+        "invented": "15.04.2030",
+        "inventor": "Д-р Лара Генет",
+        "deployed": "15.10.2033",
+        "works": 2,
+        "useful": 6,
+        "harmful": 5,
+        "usability_type": "Медицина",
+        "harm_type": "Социальное"
+    }
+]
